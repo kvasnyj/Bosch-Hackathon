@@ -1,7 +1,12 @@
 # Bosch-Hackathon
 
-* Sensors
-* Perception: distance to the left and right side of road
-* PID control
+## Tools
+- MatLab
+- Python
+- Carla simulator
 
-## Step 1: following in the middle of road
+## Scenario
+- City environment 
+- Following the path
+- Stop behind other cars
+- Stop on red traffic signal
