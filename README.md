@@ -15,4 +15,4 @@
 
 ## Result 
 - Record 1 https://github.com/kvasnyj/Bosch-Hackathon/blob/master/out/1_out.mp4
-- Record 2
+- Record 2 https://github.com/kvasnyj/Bosch-Hackathon/blob/master/out/2_out.avi
