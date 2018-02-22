@@ -4,6 +4,7 @@
 - MatLab
 - Python
 - Carla simulator
+- ROS/RViz
 
 ## Scenario
 - City environment 
