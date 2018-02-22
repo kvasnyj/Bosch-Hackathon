@@ -5,6 +5,7 @@
 - Python
 - Carla simulator
 - ROS/RViz
+- VS Code
 
 ## Scenario
 - City environment 
